@@ -1,0 +1,6 @@
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\EntityLayer\obj\Debug\EntityLayer.pdb

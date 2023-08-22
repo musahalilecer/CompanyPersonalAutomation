@@ -1,0 +1,9 @@
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\DataAccessLayer1\bin\Debug\DataAccessLayer1.dll
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\DataAccessLayer1\bin\Debug\DataAccessLayer1.pdb
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\DataAccessLayer1\bin\Debug\EntityLayer.dll
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\DataAccessLayer1\bin\Debug\EntityLayer.pdb
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\DataAccessLayer1\obj\Debug\DataAccessLayer1.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\DataAccessLayer1\obj\Debug\DataAccessLayer1.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\DataAccessLayer1\obj\Debug\DataAccessLayer1.csproj.CopyComplete
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\DataAccessLayer1\obj\Debug\DataAccessLayer1.dll
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\DataAccessLayer1\obj\Debug\DataAccessLayer1.pdb

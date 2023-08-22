@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\LogicLayer\bin\Debug\LogicLayer.dll
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\LogicLayer\bin\Debug\LogicLayer.pdb
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\LogicLayer\bin\Debug\DataAccessLayer1.dll
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\LogicLayer\bin\Debug\EntityLayer.dll
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\LogicLayer\bin\Debug\DataAccessLayer1.pdb
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\LogicLayer\bin\Debug\EntityLayer.pdb
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\LogicLayer\obj\Debug\LogicLayer.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\LogicLayer\obj\Debug\LogicLayer.dll
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NkatmanliMimari\LogicLayer\obj\Debug\LogicLayer.pdb
